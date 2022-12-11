@@ -18,7 +18,7 @@
     "@mdi/js": "^4.1.95",
     "@mdi/react": "^1.2.1",
     "@meldcx/agent": "1.0.31",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "howler": "^2.1.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
